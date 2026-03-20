@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hongyi Ye** (叶弘毅).<br>
 
-I am a undergraduate student in the [Internet of Everything Group](https://oba.eco/people/) at the Chinese University of Hong Kong, Shenzhen. 
+I am a undergraduate student major in Data Science at the Chinese University of Hong Kong, Shenzhen. 
 
 
 Feel free to reach out to me at **hongyiye [at] link.cuhk.edu.cn** !
