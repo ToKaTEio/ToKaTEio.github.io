@@ -14,7 +14,7 @@ url: https://tokateio.github.io/
 # --------------------------------------------------
 owner:
   name: Hongyi Ye
-  avatar: maoji.GIF   # 剑桥校徽（正方形）
+  # avatar: maoji.GIF   # 剑桥校徽（正方形）
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: marcusyeah265@gmail.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -63,7 +63,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: Asia/Shenzhen          # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
