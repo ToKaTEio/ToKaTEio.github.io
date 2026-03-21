@@ -11,7 +11,7 @@ title: Hobbies
 ## Guitar
 
 <div class="third">
-<img src="/images/guitar/guitar3.jpg">
+<img src="/images/guitar/guitar5.jpg">
 <img src="/images/guitar/guitar2.jpg">
 <img src="/images/guitar/guitar1.jpg">
 </div>
@@ -20,7 +20,9 @@ title: Hobbies
 
 Besides, I am the guitarist of several bands, where I meet many friends. I have performed in stage for 10+ times in my 6 years of playing guitar. Here is a picture of me and my band members.
 
-<img src="/images/guitar/guitar4.jpg">
+<img src="/images/guitar/guitar4.jpg"><br>
+
+For my performance, see my [**performance**](https://tokateio.github.io//file/performance.md) blog for more details.
 
 ## Music
 
