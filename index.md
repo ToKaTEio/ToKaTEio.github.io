@@ -26,4 +26,9 @@ Feel free to reach out to me at **hongyiye [at] link.cuhk.edu.cn** !
 
 To be completed...
 
+## Professional Experience
+
+- Quant Researcher
+- Research Assistance
+
 <br>

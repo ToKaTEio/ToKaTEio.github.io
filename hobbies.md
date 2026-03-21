@@ -11,14 +11,16 @@ title: Hobbies
 ## Guitar
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/guitar/guitar3.jpg">
+<img src="/images/guitar/guitar2.jpg">
+<img src="/images/guitar/guitar1.jpg">
 </div>
-<br>I have been played guitar since I am in high school. Guitar is like another It helps me to express myself and remove my worries. <br>
+<br>I have been played guitar since I am in high school. Guitar is like part of me. It helps me to express myself and remove my worries. <br>
 <br>
 
-Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+Besides, I am the guitarist of several bands, where I meet many friends. I have performed in stage for 10+ times in my 6 years of playing guitar. Here is a picture of me and my band members.
+
+<img src="/images/guitar/guitar4.jpg">
 
 ## Music
 
@@ -27,30 +29,26 @@ Swimming removes my worries, refreshes my body, and brings me courage to address
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>Music has always been one of the most important parts of my life. To me, it is one of humanity’s oldest and greatest art forms, something that speaks directly to the heart.
+<br>
+<br>
+I listen to a wide range of music. As a guitar player, I am currently drawn to metal, particularly neoclassical metal (a small tribute to Yngwie J. Malmsteen and Jason Becker) as well as power metal. I also enjoy Touhou metal doujin music, which often combines beautiful melodies with some of the craziest riffs and solos (Check out Thousand Leaves).
+<br>
+<br>
+When I first began playing electric guitar, I was mainly into hard rock and blues rock. I was also fascinated by the art of improvisation. A few years ago, I became deeply interested in the blues, thanks in part to Eric Clapton, B.B.King and SRV.
+<br>
+<br>
+Beyond guitar-centered music, I also listen to a broader range of genres, including Vocaloid (术力口), J-rock, indie rock, game soundtracks, progressive rock in the spirit of King Crimson, and Chinese pop. For more recommendations, feel free to visit my blog.
+<br>
+<br>
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+# Past Hobbies
+
+## Model
 
 
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
 
 <div>
 <img src="/images/cat.JPG">
 </div>
 <br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
