@@ -26,12 +26,6 @@ Besides, I am the guitarist of several bands, where I meet many friends. I have 
 For my performance, see my [**performance**](https://tokateio.github.io//file/performance.md) blog for more details.
 
 ## Music
-
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
 <br>Music has always been one of the most important parts of my life. To me, it is one of humanity’s oldest and greatest art forms, something that speaks directly to the heart.
 <br>
 <br>
