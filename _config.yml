@@ -58,6 +58,8 @@ links:
     url: /blogs/
   - title: Tours
     url: /tours/
+  - title: Coursework
+    url: coursework
   # - title: 中文
   #   url: /cn/
 
@@ -65,7 +67,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shenzhen          # IANA time-zone ID (China/Beijing is invalid)
+timezone: China/Beijing        # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force

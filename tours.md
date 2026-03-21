@@ -4,7 +4,7 @@ permalink: /tours/index.html
 title: Tours
 ---
 
-## Tour
+## My Tours
 
 ### 2025
 
