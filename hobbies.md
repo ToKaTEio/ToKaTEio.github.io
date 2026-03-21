@@ -20,7 +20,7 @@ title: Hobbies
 
 Besides, I am the guitarist of several bands, where I meet many friends. I have performed in stage for 10+ times in my 6 years of playing guitar. Here is a picture of me and my band members.
 
-<img src="/images/guitar/guitar4.jpg"><br>
+<img src="/images/guitar/guitar4.jpg" width="300"><br>
 
 For my performance, see my [**performance**](https://tokateio.github.io//file/performance.md) blog for more details.
 
