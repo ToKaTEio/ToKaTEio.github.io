@@ -14,8 +14,7 @@ title: Awards
 ## Competitions
 
 - Kaggle Learning Agency Lab - Automated Essay Scoring 2.0 Bronze Medal 7%
-- Mathematics Competition of Chinese
-College Students (CMC) Non-Math Major Group 大学生数学竞赛 非数学组 Second Prize
+- CMC 大学生数学竞赛 非数学组 Second Prize 省二等奖
 - The Mathematical Contest in Modeling (MCM/ICM) 数学建模美赛 Meritorious Winner
 
 <br>
