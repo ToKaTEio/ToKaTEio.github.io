@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Blogs
+title: Tours
 ---
 
 ## Tour
@@ -36,16 +36,6 @@ I interned as quantitive researcher in Shanghai.
 
 I attended summer school program at The London School of Economics and Political Science (LSE). 
 
-
-<br>
-
-## Leave a Message 欢迎留言
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
 
 
 
