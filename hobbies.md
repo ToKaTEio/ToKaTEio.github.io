@@ -10,17 +10,18 @@ title: Hobbies
 
 ## Guitar
 
-<div class="third">
+<div class="second">
 <img src="/images/guitar/guitar5.jpg">
 <img src="/images/guitar/guitar2.jpg">
-<img src="/images/guitar/guitar1.jpg">
 </div>
 <br>I have been played guitar since I am in high school. Guitar is like part of me. It helps me to express myself and remove my worries. <br>
 <br>
 
 Besides, I am the guitarist of several bands, where I meet many friends. I have performed in stage for 10+ times in my 6 years of playing guitar. Here is a picture of me and my band members.
 
+<p align="center">
 <img src="/images/guitar/guitar4.jpg" width="300"><br>
+<p>
 
 For my performance, see my [**performance**](https://tokateio.github.io//file/performance.md) blog for more details.
 
