@@ -8,7 +8,7 @@ title: Hobbies
 
 # Hobbies
 
-## Guitar
+## Guitar & Band
 
 <p align="center">
   <img src="/images/guitar/guitar5.jpg" width="45%" style="margin-right: 10px;" />
