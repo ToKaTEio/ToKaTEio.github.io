@@ -24,7 +24,7 @@ Besides, I am the guitarist of several bands, where I meet many friends. I have 
 <img src="/images/guitar/guitar4.jpg" width="300"><br>
 <p>
 
-For my performance, see my [performance](/file/performance.md) blog for more details.
+For my performance, see my [performance](/file/performance) blog for more details. <br>
 
 ## Music
 <br>Music has always been one of the most important parts of my life. To me, it is one of humanity’s oldest and greatest art forms, something that speaks directly to the heart.
