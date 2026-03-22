@@ -16,5 +16,5 @@ title: Awards
 - Kaggle Learning Agency Lab - Automated Essay Scoring 2.0 Bronze Medal 7%
 - CMC 大学生数学竞赛 非数学组 省二等奖
 - The Mathematical Contest in Modeling (MCM/ICM) Meritorious Winner
-- WorldQuant Brain CUHKSZ Alphathon 2023 #8 USD$200
+- WorldQuant Brain CUHKSZ Alphathon 2023 rank7 USD$200
 <br>

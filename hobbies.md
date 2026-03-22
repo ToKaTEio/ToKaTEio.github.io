@@ -40,20 +40,20 @@ When I first began playing electric guitar, I was mainly into hard rock and blue
 <br>
 Beyond guitar-centered music, I also listen to a broader range of genres, including Vocaloid (术力口), J-rock, indie rock, game soundtracks, progressive rock in the spirit of King Crimson, and Chinese pop. For more recommendations, feel free to visit my blog.
 
-<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-start;">
+<div style="display: flex; justify-content: center; gap: 70px; align-items: flex-start;">
   <div style="width: 23%; text-align: center;">
     <img src="/images/music/ssfz.jpg" style="width: 100%; height: auto;" />
-    <p style="font-size: 14px; color: gray;"><strong>幼さを入院させて</strong> from <strong>神聖かまってちゃん</strong> my favourite rock band</p>
+    <p style="font-size: 10px; color: gray;"><strong>幼さを入院させて</strong> <br>from <strong>神聖かまってちゃん</strong> my favourite rock band</p>
   </div>
 
   <div style="width: 23%; text-align: center;">
     <img src="/images/music/kc.jpg" style="width: 100%; height: auto;" />
-    <p style="font-size: 14px; color: gray;"><strong>Larks' Tongues in Aspic</strong> Greatest progressice rock album in my opinion</p>
+    <p style="font-size: 10px; color: gray;"><strong>Larks' Tongues in Aspic</strong> <br>Greatest progressice rock album in my opinion</p>
   </div>
 
   <div style="width: 23%; text-align: center;">
     <img src="/images/music/orangestar.jpg" style="width: 100%; height: auto;" />
-    <p style="font-size: 14px; color: gray;"><strong>未完成エイトビーツ</strong> from <strong>Orangestar</strong> my memories of youth</p>
+    <p style="font-size: 10px; color: gray;"><strong>未完成エイトビーツ</strong> <br>from <strong>Orangestar</strong> my memories of youth</p>
   </div>
 </div>
 
