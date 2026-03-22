@@ -9,22 +9,21 @@ title: Hobbies
 # Hobbies
 
 ## Guitar & Band
-<br>
 
-<div style="display: flex; justify-content: ceter; gap: 100px;">
+<div style="display: flex; justify-content: center; gap: 100px;">
   <img src="/images/guitar/guitar5.jpg" width="45%" />
   <img src="/images/guitar/guitar2.jpg" width="45%" />
 </div>
 
 <br>
-I have been played guitar since I am in high school. Guitar is like part of me. It helps me to express myself and remove my worries. <br>
-<br>
+I have been playing the guitar since high school, and it has become a part of me. It helps me express myself and eases my worries.<br> <br>
 
-Besides, I am the guitarist of several bands, where I meet many friends. I have performed in stage for 10+ times in my 6 years of playing guitar. Here is a picture of me and my band members.
+I have also been the guitarist in several bands, where I met many good friends. Over the past six years, I have performed on stage more than ten times. Here is a picture of me and my band members.
+
 
 <p align="center">
   <img src="/images/guitar/guitar4.jpg" width="300">
-<p>
+</p>
 
 <br>
 For my performance, see my [performance](/file/performance) blog for more details. <br>
