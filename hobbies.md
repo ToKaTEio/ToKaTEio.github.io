@@ -42,7 +42,11 @@ Beyond guitar-centered music, I also listen to a broader range of genres, includ
 
 ## Reading
 
+To be completed
+
 ## Gaming
+
+To be completed
 
 # Past Hobbies
 

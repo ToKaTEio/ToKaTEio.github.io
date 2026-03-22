@@ -72,5 +72,90 @@ Here is [**my note**](/file/notes/MAT4001.pdf). Preview:
 
 <br>
 
+## Statistics 統計學
+
+### STA2003 Probability 基础概率论
+
+To be completed...
+
+### STA4001 Stochastic Process 随机过程
+
+To be completed...
+
+### STA4003 Time Series 时间序列
+
+To be completed...
+
+## Computer Science 計算機科學
+
+### CSC3100 Data Structure 数据结构
+
+To be completed...
+
+### CSC3160 Fundementals of Speech and Language Processing 语音与语言处理基础
+
+To be completed...
+
+## Data and Decision Analytics 數據與決策分析(機器學習)
+
+### DDA3020 Machine Learning 机器学习
+
+To be completed...
+
+### DDA4002 Stochastic Simulation 随机模拟
+
+To be completed...
+
+### DDA4010 Bayesian Statistics 贝叶斯统计
+
+To be completed...
+
+### DDA4230 Reinforcement Learning 强化学习
+
+To be completed...
+
+## Economics 經濟學
+
+### ECO3121 Introductory Econometrics 计量经济学
+
+To be completed...
+
+## Finance 金融學
+
+### FIN2020 Foundation of Finance 金融学基础
+
+To be completed...
+
+## Biology 生物學
+
+### BIO1008 Chemistry and Life Science 化学与生命科学
+
+To be completed...
+
+## Physics 物理學
+
+### PHY1001 Mechanics 力学
+
+To be completed...
+
+## General Education Course 通識教育
+
+## GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
+
+To be completed...
+
+## GEB2112 Theory of Knowledge 知识论
+
+To be completed...
+
+## GEC2115 Latin America in Historical Perspective: The Past 600 Years
+
+To be completed...
+
+## GED3309 The Problem of Love in Western and Chines Poetry: From Ancient to Modern
+
+To be completed...
+
+
 ---
 
