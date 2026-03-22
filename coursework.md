@@ -4,7 +4,7 @@ permalink: /coursework/index.html
 title: Coursework
 ---
 
-# My Notes & Cheating Paaper
+# My Notes & Cheat sheet
 <br>
 I would like to share some of my undergraduate course notebooks here, along with my thoughts on these courses. I hope they will be helpful. These notes were written in GoodNotes on my iPad.
 
@@ -35,10 +35,12 @@ I took this course in 2024 Fall term instructed by Prof. Ayman KACHMAR. Personal
 <br>
 
 ### MAT3040 Abstract Algebra 抽象代数
-I did not take this course formaly because of my study schedule. But I am trying to learn by myself from [this great note](https://walterbabyrudin.github.io/Notes/MAT3040.pdf) of Prof. Jie WANG. There are also many other MAT notes from his website. [My note](/file/notes/mat3040.pdf)
+I did not take this course formally due to scheduling conflicts, but I have been learning it on my own with the help of [these excellent notes](https://walterbabyrudin.github.io/Notes/MAT3040.pdf) by Prof. Jie Wang. His website also includes many other MAT notes. Here is [My note](/file/notes/mat3040.pdf)
 
 ### MAT3220 Optimization II 最优化II
-I am currently taking this course in 2026 Spring term instructed by Prof. Shi PU。 Still learning. Here are [my cheating paper](/file/notes/MAT3220 cp1.pdf) for the midterm, covering metrial from Math Preliminaries, Unconstrained Optimization to Optimization over a convex set.
+I am currently taking this course in 2026 Spring term instructed by Prof. Shi PU。 I am still learning, but here is [my cheat sheet](/file/notes/MAT3220CP1.pdf) for the midterm, covering material from mathematical preliminaries, unconstrained optimization, and optimization over convex sets.
+
+### MAT3280
 
 
 
