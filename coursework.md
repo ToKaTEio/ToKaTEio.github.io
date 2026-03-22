@@ -16,9 +16,9 @@ I took this course in 2024 Spring term taught by Prof. Chaoyu QUAN. The professo
 [My note (14pages)](/file/notes/MAT2002.pdf) gives a brief summary of each chapter. Preview:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="file/preview/mat2002/MAT2002 1.png" style="width: 27%;">
-  <img src="file/preview/mat2002/MAT2002 2.png" style="width: 27%;">
-  <img src="file/preview/mat2002/MAT2002 3.png" style="width: 27%;">
+  <img src="/file/preview/mat2002/MAT2002 1.png" style="width: 27%;">
+  <img src="/file/preview/mat2002/MAT2002 2.png" style="width: 27%;">
+  <img src="/file/preview/mat2002/MAT2002 3.png" style="width: 27%;">
 </div>
 <br>
 
@@ -49,7 +49,7 @@ In the second half, the course covered a broad but still substantial range of to
 
 This course helped me understand probability from a very fundamental measure-theoretic perspective, and also gave me a clearer sense of how modern mathematics is built. It was a rigorous mathematics course that required careful and precise proof writing. In addition, Prof. Shum was very kind and humorous. I received a good grade in the course, and he also helped with my recommendation letters :). Thanks Kenneth!
 
-Due to the space limit, here is the [first part of my note]() and here is the [second part]. Also, [my cheat sheet] for midterm and final. Preview:
+Due to the space limit, here is the [first part of my note](/file/notes/MAAT3280Pt1.pdf) and here is the [second part](/file/notes/MAAT3280Pt2.pdf). Also, [my cheat sheet](/file/notes/mat3280CP.pdf) for midterm and final. Preview:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/file/preview/mat3280/MAT3280preview1.png" style="width: 27%;">
