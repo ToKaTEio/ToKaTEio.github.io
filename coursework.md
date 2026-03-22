@@ -15,7 +15,7 @@ I would like to share some of my undergraduate course notebooks here, along with
 I took this course in Spring 2024 instructed by Prof. Chaoyu QUAN. The professor was good and the lectures were clear, but I did not think it was a very good course overall. It focused more on memorizing formulas and doing calculations than on understanding the underlying concepts. The overall coverage of the subject was also rather shallow. <br><br>
 [My note (14pages)](/file/notes/MAT2002.pdf) gives a brief summary of each chapter. Preview:
 
-<div style="display: flex; justify-content: center; gap: 8px;">
+<div style="display: flex; justify-content: center; gap: 35px;">
   <img src="/file/preview/mat2002/MAT2002 1.png" style="width: 27%;">
   <img src="/file/preview/mat2002/MAT2002 2.png" style="width: 27%;">
   <img src="/file/preview/mat2002/MAT2002 3.png" style="width: 27%;">
@@ -26,11 +26,13 @@ I took this course in Fall 2024 instructed by Prof Ayman KACHMAR. Personally I t
 <br><br>
 [My note (14pages)]() gives a brief review on basic definitions, propositions and theorems in slides. Most of them are accompanied by proofs. Preview:
 
-<div style="display: flex; justify-content: center; gap: 8px;">
+<div style="display: flex; justify-content: center; gap: 35px;">
   <img src="/file/preview/mat2050/MAT2050 preview1.png" style="width: 27%;">
   <img src="/file/preview/mat2050/MAT2050 preview1.png" style="width: 27%;">
   <img src="/file/preview/mat2050/MAT2050 preview1.png" style="width: 27%;">
 </div>
+
+### MAT3040 Abstract Algebra
 
 
 
