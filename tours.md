@@ -12,29 +12,29 @@ title: Tours
 
 I came to Kuala Lumpur to enjoy the Li Zhi's live.
 
-<div style="display: flex; justify-content: center; gap: 50px;">
+<div style="display: flex; justify-content: center; gap: 50px; align-items: flex-start;">
   <img src="/images/tour/Kuala Lumpur/1.jpg" width="45%" />
   <img src="/images/tour/Kuala Lumpur/2.jpg" width="45%" />
 </div>
 
 #### Beijing, China
 
-I interned as quantitive researcher in Beijing.
+I interned as quantitive researcher in Beijing for 2 months.
 
 #### Tokyo, Japan
 
 I came to Tokyo to enjoy the Eric Clapton's live at Budokan 2025 with my friend.
 
 <div style="display: flex; justify-content: center; gap: 50px; align-items: flex-start;">
-  <img src="/images/field1.jpg" style="width: 45%; height: auto;" />
-  <img src="/images/field2.jpg" style="width: 45%; height: auto;" />
+  <img src="/images/tour/Tokyo/1.jpg" width="45%" />
+  <img src="/images/tour/Tokyo/2.jpg" width="45%" />
 </div>
 
 ### 2024
 
 #### Shanghai, China
 
-I interned as quantitive researcher in Shanghai.
+I interned as quantitive researcher in Shanghai for 2 months and research assistant in China Securities for another 2 months.
 
 ### 2023
 

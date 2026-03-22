@@ -48,14 +48,14 @@ Beyond guitar-centered music, I also listen to a broader range of genres, includ
 
 ## Track and Field
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 50px; align-items: flex-start;">
   <img src="/images/field1.jpg" style="width: 45%; height: auto;" />
-  <img src="/images/field2.jpg" style="width: 45%; height: auto;" />
+  <img src="/images/field2.png" style="width: 45%; height: auto;" />
 </div>
 
 I used to be a track and field enthusiast. In middle school, I trained mainly in the long jump as a member of the school team, although I did not achieve a strong result at the district meet 区运会. In high school, I mainly took part in the 400-meter race and the 4×100-meter relay at the school sports meet, where I won several medals. Later, after suffering an ACL tear and a meniscus injury, I stopped training.
 
 ## Basketball
 
-I also used to enjoy playing basketball a lot. In high school, I liked playing as a shooting guard, although I never took part in any official competitions.
+I also used to enjoy playing basketball a lot. In high school, I played as a SG, although I never took part in any official competitions.
 
