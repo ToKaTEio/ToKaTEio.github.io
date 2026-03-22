@@ -140,19 +140,19 @@ To be completed...
 
 ## General Education Course 通識教育
 
-## GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
+### GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
 
 To be completed...
 
-## GEB2112 Theory of Knowledge 知识论
+### GEB2112 Theory of Knowledge 知识论
 
 To be completed...
 
-## GEC2115 Latin America in Historical Perspective: The Past 600 Years
+### GEC2115 Latin America in Historical Perspective: The Past 600 Years
 
 To be completed...
 
-## GED3309 The Problem of Love in Western and Chines Poetry: From Ancient to Modern
+### GED3309 The Problem of Love in Western and Chines Poetry: From Ancient to Modern
 
 To be completed...
 
