@@ -29,18 +29,18 @@ To be completed...
 ## Professional Experience
 
 <div style="display: flex; justify-content: space-between;">
-  <span><strong>Quant Research Intern, Lengjing PE Fund Management Co., Ltd.</strong></span>
-  <span>2025.6 – 2025.10</span>
+  <span><strong>Quant Research Intern</strong>, Lengjing PE Fund, Beijing</span>
+  <span>Jun 2025 – Oct 2025</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span><strong>Quantitative Research Assistant, CHINA SECURITIES</strong></span>
-  <span>2025.7 – 2025.9</span>
+  <span><strong>Quantitative Research Assistant</strong>, CHINA SECURITIES, Shanghai</span>
+  <span>Jul 2025 – Sep 2025</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span><strong>Quant Research Intern, Lakeshang Investment Management Co., Ltd.</strong></span>
-  <span>2025.5 – 2025.7</span>
+  <span><strong>Quant Research Intern</strong>, Lakeshang Investment, Shanghai</span>
+  <span>May 2025 – Jul 2025</span>
 </div>
 
 <br>

@@ -9,7 +9,7 @@ title: Awards
 - SDS Dean's List Award, AY2024-25 院长荣誉录
 - SDS/FE Dean's List Award, AY2023-24 院长荣誉录
 - SME Dean's List Award, AY2022-23 院长荣誉录
-- Half Tuition Scholarship 入学半免学费奖学金 RMB￥57,500 each year, ￥230,000 in total<br>
+- Half Tuition Scholarship 入学半免学费奖学金 RMB￥57,500/year, ￥230,000 in total<br>
 
 ## Competitions
 
