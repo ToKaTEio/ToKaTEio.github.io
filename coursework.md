@@ -12,14 +12,25 @@ I would like to share some of my undergraduate course notebooks here, along with
 
 ### MAT2002 Ordinary Differential Equation  常微分方程
 
-I took this course in Spring 2024 instructed by Prof. Chaoyu QUAN. The professor was good and the lectures were clear, but I did not think it was a very good course overall. It focused more on memorizing formulas and doing calculations than on understanding the underlying concepts. The overall coverage of the subject was also rather shallow.
-- [My note (14pages)]() gives a brief summary of each chapter.
+I took this course in Spring 2024 instructed by Prof. Chaoyu QUAN. The professor was good and the lectures were clear, but I did not think it was a very good course overall. It focused more on memorizing formulas and doing calculations than on understanding the underlying concepts. The overall coverage of the subject was also rather shallow. <br><br>
+[My note (14pages)](/file/notes/MAT2002.pdf) gives a brief summary of each chapter. Preview:
+
+<p align="center">
+  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p1.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p2.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p3.png" width="32%">
+</p>
 
 ### MAT2050 Mathematical Analysis 数学分析
 I took this course in Fall 2024 instructed by Prof Ayman KACHMAR. Personally I think it was one of the best MAT courses I took at CUHKSZ. The content was excellent, the lectures were engaging, and the homework was genuinely inspiring. This course truly reshaped my view of mathematics.
+<br><br>
+[My note (14pages)]() gives a brief review on basic definitions, propositions and theorems in slides. Most of them are accompanied by proofs. Preview:
 
-- [My note (14pages)]() gives a brief review on basic definitions, propositions and theorems in slides. Most of them are accompanied by proofs.
-- [MAT]
+<p align="center">
+  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p1.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p2.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p3.png" width="32%">
+</p>
 
 
 
