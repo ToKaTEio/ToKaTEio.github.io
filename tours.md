@@ -25,9 +25,9 @@ I interned as quantitive researcher in Beijing.
 
 I came to Tokyo to enjoy the Eric Clapton's live at Budokan 2025 with my friend.
 
-<div style="display: flex; justify-content: center; gap: 50px;">
-  <img src="/images/tour/Tokyo/1.jpg" width="45%" />
-  <img src="/images/tour/Tokyo/2.jpg" width="45%" />
+<div style="display: flex; justify-content: center; gap: 50px; align-items: flex-start;">
+  <img src="/images/field1.jpg" style="width: 45%; height: auto;" />
+  <img src="/images/field2.jpg" style="width: 45%; height: auto;" />
 </div>
 
 ### 2024
