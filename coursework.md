@@ -16,9 +16,9 @@ I took this course in Spring 2024 instructed by Prof. Chaoyu QUAN. The professor
 [My note (14pages)](/file/notes/MAT2002.pdf) gives a brief summary of each chapter. Preview:
 
 <p align="center">
-  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p1.png" width="32%">
-  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p2.png" width="32%">
-  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p3.png" width="32%">
+  <img src="/file/preview/mat2002/MAT2002 1.png" width="32%">
+  <img src="/file/preview/mat2002/MAT2002 2.png" width="32%">
+  <img src="/file/preview/mat2002/MAT2002 3.png" width="32%">
 </p>
 
 ### MAT2050 Mathematical Analysis 数学分析
@@ -27,9 +27,9 @@ I took this course in Fall 2024 instructed by Prof Ayman KACHMAR. Personally I t
 [My note (14pages)]() gives a brief review on basic definitions, propositions and theorems in slides. Most of them are accompanied by proofs. Preview:
 
 <p align="center">
-  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p1.png" width="32%">
-  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p2.png" width="32%">
-  <img src="/file/preview/mat2050/MAT2050 preview1.pngcourse1-p3.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.png" width="32%">
+  <img src="/file/preview/mat2050/MAT2050 preview1.png" width="32%">
 </p>
 
 
