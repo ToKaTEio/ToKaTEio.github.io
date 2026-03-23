@@ -25,7 +25,6 @@ I took this course in 2024 Spring term taught by Prof. Chaoyu QUAN. The professo
 ### MAT2050 Mathematical Analysis 数学分析
 I took this course in 2024 Fall term taught by Prof. Ayman KACHMAR. Personally I think it was one of the best MAT courses I took at CUHKSZ. The content was excellent, the lectures were engaging, and the homework was genuinely inspiring. This course truly reshaped my view of mathematics.
 <br><br>
-
 [**My note (14pages)**](/file/notes/MAT2050.pdf) gives a brief review on basic definitions, propositions and theorems in slides. Most of them are accompanied by proofs. Preview:
 
 <div style="display: flex; justify-content: space-between;">
@@ -152,7 +151,7 @@ To be completed...
 
 To be completed...
 
-### GED3309 The Problem of Love in Western and Chines Poetry: From Ancient to Modern
+### GED3309 The Problem of Love in Western and Chinese Poetry: From Ancient to Modern
 
 To be completed...
 
