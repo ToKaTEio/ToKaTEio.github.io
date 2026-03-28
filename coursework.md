@@ -131,6 +131,10 @@ I took this course in 2025 Fall term taught by Prof. Qin WANG. The course gives 
 
 I did an oral essay on the topic "**Is Knowledge Contextual?**", which is a debate between Earl Conee (Contextualism Contested) and Stewart Cohen (Contextualism Defended). It was indeed an intersting topic. Here is [my Oral Essay](/file/notes/GEB2112_oral_essay.pdf) defending contextualism. 
 
+<p align="center">
+  <img src="/images/STSreading.jpg" width="300">
+</p>
+
 STS reading we used: Steup, M., Turri, J. & Sosa, E. (Eds.). (2013/2014). Contemporary Debates in Epistemology (2nd edition). Chichester, West Sussex, UK: Wiley-Blackwell. 
 
 ### GEC2115 Latin America in Historical Perspective: The Past 600 Years
@@ -157,7 +161,16 @@ To be completed...
 
 ### BIO1008 Chemistry and Life Science 化学与生命科学
 
-To be completed...
+I took this course in 2025 Fall term. I still do not know how does this course related to data science and why it is a major required course. I could hardly find any content about statistics or data science TT. And still I did not take it seriously since I was good at chemistry and biology in my high school. However when I began to do review I found out that I could not even remember a single piece of knowlege...
+
+Here is my [cheating Sheet for midterm (chemistry part)](/file/notes/BIO1008%20Mid.pdf) and [cheating Sheet for final (biology part)](/file/notes/BIO1008%20Final.pdf). Preview:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/file/preview/bio1008/BIO1008 3.png" style="width: 27%;">
+  <img src="/file/preview/bio1008/BIO1008 1.png" style="width: 27%;">
+  <img src="/file/preview/bio1008/BIO1008 2.png" style="width: 27%;">
+</div>
+<br>
 
 ## Physics 物理學
 
