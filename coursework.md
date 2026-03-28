@@ -49,7 +49,7 @@ In the first half of the term, the course provided a rigorous introduction to me
 <br>
 In the second half, the course covered a broad but still substantial range of topics in probability, including but not limit to: coupling and optimal transport, MGF & CF, modes of convergence, the LLN, and conditional expectation. There were also lectures briefly introducing more advanced concept like martingales and Hilbert spaces.<br>
 <br>
-This course helped me understand probability from a very fundamental measure-theoretic perspective, and also gave me a clearer sense of how modern mathematics is built. It was a rigorous mathematics course that required careful and precise proof writing. In addition, Prof. Shum was very kind and humorous. I received a good grade in the course, and he also helped with my recommendation letters :). Thanks Kenneth!
+This course helped me understand probability from a very fundamental measure-theoretic perspective, and also gave me a clearer sense of how modern mathematics is built. It was a rigorous mathematics course that required careful and precise proof writing. In addition, Prof. Shum was very kind and humorous. I received a good grade in the course, and he also helped with my recommendation letters :). Thanks Kenneth!<br>
 
 Due to the space limit, here is the [**first part of my note**](/file/notes/MAAT3280Pt1.pdf) and here is the [**second part**](/file/notes/MAAT3280Pt2.pdf). Also, [**my cheat sheet**](/file/notes/mat3280CP.pdf) for midterm and final. Preview:
 
@@ -61,8 +61,8 @@ Due to the space limit, here is the [**first part of my note**](/file/notes/MAAT
 <br>
 
 ### MAT4001 Numerical Analysis 数值分析
-I took this course in 2025 Spring term, taught by Prof. Dong Wang. It was more of a methods-oriented course, offering a broad introduction to many important tools in numerical analysis. I found it quite interesting, particularly because the exams still contained some proof-based questions. It was also very useful for matrix computation. Overall it is not a hard course.<br>
-
+I took this course in 2025 Spring term, taught by Prof. Dong Wang. It was more of a methods-oriented course, offering a broad introduction to many important tools in numerical analysis. I found it quite interesting, particularly because the exams still contained some proof-based questions. It was also very useful for matrix computation. Overall it is not a hard course.
+<br>
 Here is [**my note**](/file/notes/MAT4001.pdf). Preview:
 
 <div style="display: flex; justify-content: space-between;">
@@ -122,16 +122,16 @@ To be completed...
 ### GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
 
 I am currently taking this course in 2026 Spring term, taught by prof. Wang Chao. Intersting course provides me with an introduction to historical research method.
-
-Here is [My review](/file/notes/GEA2000.pdf) for the Quiz taken at midterm covering materials from Opium war to May Fourth movement.
-
-I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937). I also wrote a blog about this topic. See [here](/blogs/disenchantment)
+<br>
+Here is [**My review**](/file/notes/GEA2000.pdf) for the Quiz taken at midterm covering materials from Opium war to May Fourth movement.
+<br>
+I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937). I also wrote a blog about this topic. See [**here**](/blogs/disenchantment)
 
 ### GEB2112 Theory of Knowledge 知识论
 
-I took this course in 2025 Fall term taught by Prof. Qin WANG. The course gives a comprehensive introduction to the theory of knowledge. We first started with The Gettier Problem, then went into Skepticism, and other thoughts including but not limit to: externalism,reliabilism,  coherentism and contextualism. Actually professor also introdueced topics about disareement, epistemic justification and experimental epistemology. Professor Wang is really nice and humorous! <br>
-
-I did an oral essay on the topic "**Is Knowledge Contextual?**", which is a debate between Earl Conee (Contextualism Contested) and Stewart Cohen (Contextualism Defended). It was indeed an intersting topic. Here is [my Oral Essay](/file/notes/GEB2112_oral_essay.pdf) defending contextualism. 
+I took this course in 2025 Fall term taught by Prof. Qin WANG. The course gives a comprehensive introduction to the theory of knowledge. We first started with The Gettier Problem, then went into Skepticism, and other thoughts including but not limit to: externalism,reliabilism,  coherentism and contextualism. Actually professor also introdueced topics about disareement, epistemic justification and experimental epistemology. Professor Wang is really nice and humorous! 
+<br>
+I did an oral essay on the topic "**Is Knowledge Contextual?**", which is a debate between Earl Conee (Contextualism Contested) and Stewart Cohen (Contextualism Defended). It was indeed an intersting topic. Here is [**my Oral Essay**](/file/notes/GEB2112_oral_essay.pdf) defending contextualism. 
 
 <p align="center">
   <img src="/images/STSreading.jpg" width="200">
@@ -158,7 +158,7 @@ To be completed...
 ### FIN2020 Foundation of Finance 金融学基础
 
 I took this course in 2023 Fall term taught by Prof. Chen Wen. Basically it is a boring course about CAPM, factor model, portfolio management, fixed income investment and derivatives.
-
+<br>
 I was in Finance major in year 1 and then transfered to Financial Engineering major in year 2. This is why there is some SME courses appear in this page. But overall they are very simple compared to other courses listed. I could not even find where is my note. I remember I made it before.
 
 ## Biology 生物學
@@ -166,8 +166,8 @@ I was in Finance major in year 1 and then transfered to Financial Engineering ma
 ### BIO1008 Chemistry and Life Science 化学与生命科学
 
 I took this course in 2025 Fall term. I still do not know how does this course related to data science and why it is a major required course. I could hardly find any content about statistics or data science TT. And still I did not take it seriously since I was good at chemistry and biology in my high school. However when I began to do review I found out that I could not even remember a single piece of knowlege...
-
-Here is my [cheating Sheet for midterm (chemistry part)](/file/notes/BIO1008%20Mid.pdf) and [cheating Sheet for final (biology part)](/file/notes/BIO1008%20Final.pdf). Preview:
+<br>
+Here is my [**cheating Sheet for midterm (chemistry part)**](/file/notes/BIO1008%20Mid.pdf) and [**cheating Sheet for final (biology part)**](/file/notes/BIO1008%20Final.pdf). Preview:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/file/preview/bio1008/BIO1008 3.png" style="width: 27%;">
@@ -180,5 +180,5 @@ Here is my [cheating Sheet for midterm (chemistry part)](/file/notes/BIO1008%20M
 
 ### PHY1001 Mechanics 力学
 
-I took this course in 2025 Spring term. To be honest, I did not take this course seriously since I was good at Physics in high school. However it turned out that I should have put more effort on it. (result in a B+ T_T) But overall I thought it was a good course. It gave a review of what we learn from high school in a Calculus language and extend it with topics like totation and fluid. Here is [my cheating paper](/file/notes/PHY1001_cp_mid.pdf) for midterm and [my cheating paper for final](/file/notes/PHY1001_cp_final.pdf).
+I took this course in 2025 Spring term. To be honest, I did not take this course seriously since I was good at Physics in high school. However it turned out that I should have put more effort on it. (result in a B+ T_T) But overall I thought it was a good course. It gave a review of what we learn from high school in a Calculus language and extend it with topics like totation and fluid. Here is [**my cheating paper**](/file/notes/PHY1001_cp_mid.pdf) for midterm and [**my cheating paper for final**](/file/notes/PHY1001_cp_final.pdf).
 
