@@ -121,11 +121,11 @@ To be completed...
 
 ### GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
 
-I am currently taking this course in 2026 Spring term, taught by prof. Wang Chao. Intersting course provides me with an introduction to historical research method.
+I am currently taking this course in 2026 Spring term, taught by prof. Wang Chao. Intersting course provides me with an introduction to historical research method.s
 <br><br>
 Here is [**My review**](/file/notes/GEA2000.pdf) for the Quiz taken at midterm covering materials from Opium war to May Fourth movement.
 <br><br>
-I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937). I also wrote a blog about this topic. See [**here**](/blogs/disenchantment)
+I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937) based on the . I also wrote a blog about this topic. See [**here**](/blogs/disenchantment)
 
 ### GEB2112 Theory of Knowledge 知识论
 
@@ -167,7 +167,7 @@ I was in Finance major in year 1 and then transfered to Financial Engineering ma
 
 I took this course in 2025 Fall term. I still do not know how does this course related to data science and why it is a major required course. I could hardly find any content about statistics or data science TT. And still I did not take it seriously since I was good at chemistry and biology in my high school. However when I began to do review I found out that I could not even remember a single piece of knowlege...
 <br><br>
-Here is my [**cheating Sheet for midterm (chemistry part)**](/file/notes/BIO1008%20Mid.pdf) and [**cheating Sheet for final (biology part)**](/file/notes/BIO1008%20Final.pdf). Preview:
+Here is my [**Cheat Sheet for midterm (chemistry)**](/file/notes/BIO1008%20Mid.pdf) and [**Cheat Sheet for final (biology)**](/file/notes/BIO1008%20Final.pdf). Preview:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/file/preview/bio1008/BIO1008 3.png" style="width: 27%;">
@@ -180,5 +180,5 @@ Here is my [**cheating Sheet for midterm (chemistry part)**](/file/notes/BIO1008
 
 ### PHY1001 Mechanics 力学
 
-I took this course in 2025 Spring term. To be honest, I did not take this course seriously since I was good at Physics in high school. However it turned out that I should have put more effort on it. (result in a B+ T_T) But overall I thought it was a good course. It gave a review of what we learn from high school in a Calculus language and extend it with topics like totation and fluid. Here is [**my cheating paper**](/file/notes/PHY1001_cp_mid.pdf) for midterm and [**my cheating paper for final**](/file/notes/PHY1001_cp_final.pdf).
+I took this course in 2025 Spring term. To be honest, I did not take this course seriously since I was good at Physics in high school. However it turned out that I should have put more effort on it. (result in a B+ T_T) But overall I thought it was a good course. It gave a review of what we learn from high school in a Calculus language and extend it with topics like totation and fluid. Here is [**my cheat sheet**](/file/notes/PHY1001_cp_mid.pdf) for midterm and [**my cheat sheet for final**](/file/notes/PHY1001_cp_final.pdf).
 
