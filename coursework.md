@@ -5,7 +5,9 @@ title: Coursework
 ---
 
 # My Notes & Cheat sheet
-<br>
+
+> Update 28 March, 2026
+
 I would like to share some of my undergraduate course notebooks here, along with my thoughts on these courses. I hope they will be helpful. These notes were written in GoodNotes on my iPad.
 
 ## Mathematics 數學
@@ -123,7 +125,7 @@ I am currently taking this course in 2026 Spring term, taught by prof. Wang Chao
 
 Here is [My review](/file/notes/GEA2000.pdf) for the Quiz taken at midterm covering materials from Opium war to May Fourth movement.
 
-I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937). I wrote a blog about this topic. See [here](/blogs/disenchantment)
+I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937). I also wrote a blog about this topic. See [here](/blogs/disenchantment)
 
 ### GEB2112 Theory of Knowledge 知识论
 
@@ -132,9 +134,9 @@ I took this course in 2025 Fall term taught by Prof. Qin WANG. The course gives 
 I did an oral essay on the topic "**Is Knowledge Contextual?**", which is a debate between Earl Conee (Contextualism Contested) and Stewart Cohen (Contextualism Defended). It was indeed an intersting topic. Here is [my Oral Essay](/file/notes/GEB2112_oral_essay.pdf) defending contextualism. 
 
 <p align="center">
-  <img src="/images/STSreading.jpg" width="300">
+  <img src="/images/STSreading.jpg" width="200">
 </p>
-
+<br>
 STS reading we used: Steup, M., Turri, J. & Sosa, E. (Eds.). (2013/2014). Contemporary Debates in Epistemology (2nd edition). Chichester, West Sussex, UK: Wiley-Blackwell. 
 
 ### GEC2115 Latin America in Historical Perspective: The Past 600 Years
@@ -155,7 +157,9 @@ To be completed...
 
 ### FIN2020 Foundation of Finance 金融学基础
 
-To be completed...
+I took this course in 2023 Fall term taught by Prof. Chen Wen. Basically it is a boring course about CAPM, factor model, portfolio management, fixed income investment and derivatives.
+
+I was in Finance major in year 1 and then transfered to Financial Engineering major in year 2. This is why there is some SME courses appear in this page. But overall they are very simple compared to other courses listed. I could not even find where is my note. I remember I made it before.
 
 ## Biology 生物學
 
