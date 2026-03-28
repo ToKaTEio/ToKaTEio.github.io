@@ -12,10 +12,10 @@ title: Tours
 
 I came to Kuala Lumpur to enjoy the Li Zhi's live.
 
-<div style="display: flex; justify-content: center; gap: 50px; align-items: flex-start;">
-  <img src="/images/tour/Kuala Lumpur/1.jpg" width="45%" />
-  <img src="/images/tour/Kuala Lumpur/2.jpg" width="45%" />
-</div><br>
+<p align="center">
+  <img src="/images/tour/Kuala Lumpur/2.jpg" width="300">
+</p>
+<br>
 
 #### Beijing, China
 
