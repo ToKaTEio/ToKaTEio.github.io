@@ -113,6 +113,34 @@ To be completed...
 
 To be completed...
 
+
+
+## General Education Course 通識教育
+
+### GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
+
+I am currently taking this course in 2026 Spring term, taught by prof. Wang Chao. Intersting course provides me with an introduction to historical research method.
+
+Here is [My review](/file/notes/GEA2000.pdf) for the Quiz taken at midterm covering materials from Opium war to May Fourth movement.
+
+I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937). I wrote a blog about this topic. See [here](/blogs/disenchantment)
+
+### GEB2112 Theory of Knowledge 知识论
+
+I took this course in 2025 Fall term taught by Prof. Qin WANG. The course gives a comprehensive introduction to the theory of knowledge. We first started with The Gettier Problem, then went into Skepticism, and other thoughts including but not limit to: externalism,reliabilism,  coherentism and contextualism. Actually professor also introdueced topics about disareement, epistemic justification and experimental epistemology. Professor Wang is really nice and humorous! <br>
+
+I did an oral essay on the topic "**Is Knowledge Contextual?**", which is a debate between Earl Conee (Contextualism Contested) and Stewart Cohen (Contextualism Defended). It was indeed an intersting topic. Here is [my Oral Essay](/file/notes/GEB2112_oral_essay.pdf) defending contextualism. 
+
+STS reading we used: Steup, M., Turri, J. & Sosa, E. (Eds.). (2013/2014). Contemporary Debates in Epistemology (2nd edition). Chichester, West Sussex, UK: Wiley-Blackwell. 
+
+### GEC2115 Latin America in Historical Perspective: The Past 600 Years
+
+To be completed...
+
+### GED3309 The Problem of Love in Western and Chinese Poetry: From Ancient to Modern
+
+To be completed...
+
 ## Economics 經濟學
 
 ### ECO3121 Introductory Econometrics 计量经济学
@@ -135,26 +163,5 @@ To be completed...
 
 ### PHY1001 Mechanics 力学
 
-To be completed...
-
-## General Education Course 通識教育
-
-### GEA2000 Modern Chinese History and Culture 中国近现代历史与文化
-
-To be completed...
-
-### GEB2112 Theory of Knowledge 知识论
-
-To be completed...
-
-### GEC2115 Latin America in Historical Perspective: The Past 600 Years
-
-To be completed...
-
-### GED3309 The Problem of Love in Western and Chinese Poetry: From Ancient to Modern
-
-To be completed...
-
-
----
+I took this course in 2025 Spring term. To be honest, I did not take this course seriously since I was good at Physics in high school. However it turned out that I should have put more effort on it. (result in a B+ T_T) But overall I thought it was a good course. It gave a review of what we learn from high school in a Calculus language and extend it with topics like totation and fluid. Here is [my cheating paper](/file/notes/PHY1001_cp_mid.pdf) for midterm and [my cheating paper for final](/file/notes/PHY1001_cp_final.pdf).
 
