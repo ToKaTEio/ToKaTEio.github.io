@@ -125,7 +125,17 @@ I am currently taking this course in 2026 Spring term, taught by prof. Wang Chao
 <br><br>
 Here is [**My review**](/file/notes/GEA2000.pdf) for the Quiz taken at midterm covering materials from Opium war to May Fourth movement.
 <br><br>
-I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937) based on the . I also wrote a blog about this topic. See [**here**](/blogs/disenchantment)
+I also gave a presentation on the political disenchantment (政治幻灭感) of Chinese youth in the 1930s (Nanjing Decade from 1927 to 1937) based on the this book: 
+
+<p align="center">
+  <img src="/images/TheAlienatedAcademy.png" width="200">
+</p>
+<br>
+
+Yeh, Wen-Hsin. *The Alienated Academy*. Harvard University Asia Center, 2000, Chapters 7.
+It has an official Chinese version.
+
+I also wrote a blog about this topic. See [**here**](/blogs/disenchantment)
 
 ### GEB2112 Theory of Knowledge 知识论
 
